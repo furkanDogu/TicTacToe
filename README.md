@@ -3,3 +3,8 @@ In this project, we have used native-base, react-native-elements, react-navigati
 On backend side there are express and socket.io.
 
 The game consists of 3 main functionalities named 'Play with your friend', 'Play with phone', 'Play on network'.
+
+Here are some gameplay videos from game.
+
+First 2 modes : https://youtu.be/jPfTra1awOg
+Network mode  :  https://youtu.be/pVr6GdbRLIs
