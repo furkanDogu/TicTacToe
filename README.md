@@ -7,4 +7,5 @@ The game consists of 3 main functionalities named 'Play with your friend', 'Play
 Here are some gameplay videos from game.
 
 First 2 modes : https://youtu.be/jPfTra1awOg
+
 Network mode  :  https://youtu.be/pVr6GdbRLIs
